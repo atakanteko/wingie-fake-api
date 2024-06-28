@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com" },
+      { "id": 2, "name": "Jane Doe", "email": "jane@example.com" }
+    ],
+    "posts": [
+      { "id": 1, "title": "Hello World", "authorId": 1 },
+      { "id": 2, "title": "GraphQL is awesome", "authorId": 2 }
+    ]
+  }
+  
